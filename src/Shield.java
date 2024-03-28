@@ -1,5 +1,5 @@
 public class Shield extends Armor{
     Shield() {
-        super("Shield", 30);
+        super("Shield", 15);
     }
 }

@@ -1,5 +1,5 @@
 public class Helmet extends Armor{
     Helmet(){
-        super("Helmet", 25);
+        super("Helmet", 10);
     }
 }
